@@ -1,0 +1,289 @@
+{
+    "generator_title": "QR Code Generator: Create your free QR Code",
+    "generator_subtitle": "Customize it with your color, shape, and logo in 3 simple steps.",
+    "step1": "Choose the content of your QR code",
+    "step2": "Customize and design it as you like",
+    "step3": "Download your QR code",
+    "step1text1":"Select from a wide variety of options:",
+    "step1text2":"PDF, menu, video, business cards, web,",
+    "step1text3":"apps, etc.",
+
+    "step2text1":"Fill in all the information and use our QR",
+    "step2text2":"generator to get a unique design.",
+    "step3text1":"Get your QR code in different formats",
+    "step3text2":"(pdf, png, svg), print it or show it in a",
+    "step3text3":"digital format and voila!",
+    "ngenete1":"Generate different types of QR Codes",
+    "ngenete12":"QR codes can hold a large amount of content and at QRfy, we offer them",
+    "create_button": "Create QR code",
+
+    "Homepagenn" : "Homepage",
+    "Businessnn" : "Business",
+    "Educationalinstitutionsnn" : "Educational institutions",
+    "QRCodesnn" : "QR Codes for Restaurants",
+    "digitalnn":"Integrating QR codes into your restaurant is a key step in digital transformation. Learn how your establishment can revolutionize its service and connection with customers, taking advantage of the potential of these digital tools.",
+    "Getstartednownn":"Get started now",
+    "Discovernn":"Discover Los Burgueses",
+    "Considernn":"Consider Los Burgueses as an example: it could be your cafe, pub or food venue. Using QR codes positively transforms your guests' experience, promoting their loyalty and preference. Do you want to innovate in your establishment? Explore these original ways to implement QR codes and how you can adapt them to your business.",
+    "Menu_qr_codenn": "Menu qr code",
+    "Your_menunn":"Your menu, always accessible",
+    "If_you_offernn":"If you offer takeout or delivery services, allow your customers to access your menu dynamically with Menu QR codes. This tool allows you to update your culinary offering easily and without reprints, ideal for price changes, images or brand renewals.",
+    "MoreInfonn":"More Info",
+    "Link_Listing_QR_Codenn":"Link Listing QR Code",
+    "Strengthennn":"Strengthen your online presence",
+    "gastronomicnn":"The gastronomic experience is also enjoyed in the digital world. Make it easy for your visitors to find and follow your social networks using a specific QR code on your premises. Place it in visible places so that your customers connect and share their experience, grouping all your networks into a single QR code.",
+    "Feedbacknn":"Feedback QR Code",
+    "listennn":"Listen to your clients",
+    "loyaltynn":"The loyalty of your customers depends on their degree of satisfaction. With Feedback QR codes, collect your opinions in a simple way. Place these QRs on invoices or menus so they can leave ratings and comments about their experience. View opinions on the platform with date and time, and organize them by categories for detailed analysis.",
+  "createnangenn":"Create, manage and monitor your QR codes",
+  "Design_impressivenn":"Design impressive QR codes to suit you. Add your own touch with colors, logo and frame.",
+  "Business_QR_Codenn":"Business QR Code",
+  "Create,managnn":"Create, manage and monitor your QR codes",
+  "useyournn":"Use your restaurant's window as a constant advertising space. A QR code with information about your business, visible throughout the day, attracts the attention of those passing by, showing details such as hours, menu, social networks and more, even outside opening hours.",
+  "imagesqrnn":"Images qr code",
+  "viewyour":"View your specialties",
+  "Sometimesnn":"Sometimes words are not enough to describe your dishes. Use QR codes that link to a gallery of images of your specialties. This allows customers to visually explore your culinary offerings without overloading your menu design.",
+  "Couponqrnn":"Coupon QR Code",
+  "Build_loynn":"Build loyalty with promotions",
+  "Attract_newnn":"Attract new customers and retain regular ones with QR codes that link to coupons and special offers. It is an effective way to encourage visits and reward the loyalty of your clientele by offering exclusive benefits.",
+  "Complete_solnn":"Complete Solution for Marketing with QR Codes",
+  "Adaptnn":"Adapt your QR codes to your brand image, incorporating corporate colors and your logo. Monitor performance through statistical analysis and modify your content even after printing. A versatile tool to enhance your marketing strategy.",
+  "allplannn":"All plans include:",
+  "Unlimitednn":"Unlimited dynamic QR",
+  "Createunlimitednn":"Create unlimited QRs and update them whenever you want in real time.",
+  "Varietynn":"Variety of QR types",
+  "choosenn":"Choose from multiple QR types, such as URL, PDF, Menu, and more.",
+  "varitynn":"Variety of download formats",
+  "doenloadnn":"Download your QR in PNG, SVG, PDF, among others.",
+  "unnlin":"Unlimited Members",
+  "invitnn":"Invite the users you want to collaborate in the creation and management of your QR.",
+  
+    "Completexnn":"Complete QR Analytics",
+    "statisticsnn":"Get statistics with the number of scans, locations and user devices.",
+    "editingnn":"QR editing and management",
+    "colorssnn":"Customize your QRs with colors, fonts, and the logo you choose, among other options.",
+    "limtsnn":"Unlimited scans",
+    "unlimitedlynn":"Your QRs can be scanned unlimitedly.",
+    "bilkxnn":"Bulk creation and download",
+    "RESTnn":"Generate multiple QRs with CSV or REST API and obtain them in a single download.",
+    "pixelnn":"Integrate Google and Facebook pixel",
+    "interactionnn":"Track interaction with your QRs.",
+    "PSupportnnn":"Premium Support",
+    "whenevernn":"Cancel whenever you want",
+    "CSVnn":"Generate multiple QRs with CSV or REST API and obtain them in a single download.",
+    "Domainnn":"Custom Domain",
+    "track":"Track interaction with your QRs.",
+    "pricesnn":"Plans and prices",
+    "FAQnn":"FAQ",
+    "Resourcesnn":"Resources",
+    "typesdnn":"Types of QR code",
+    "QRCodesfornn":"QR Codes for",
+    "QRCodesonnn":"QR Codes on",
+    "Generatornn":"QR Code Generator",
+    "Featuresnn":"Features",
+    "StaticQRss":"Static QR",
+    "Permanentxnnn":"Permanent and unalterable QR codes.",
+    "creationvnn":"Bulk creation and download",
+    "Generatevnn":"Generate and download QRs on a large scale.",
+    "dynnn":"Dynamic QR",
+    "updateablenn":"QR codes updateable in real time.",
+
+
+    "GooglePixelIntegrationnn": "Google pixel integration",
+    "DigitalCampaignAnalysisnn": "Improve the analysis of your digital campaigns.",
+    "VarietyDownloadFormatsnn": "Variety of download formats",
+    "ExpandPossibilitiesnn": "Expand the possibilities of use of your QRs.",
+    "CustomDomainnn": "Custom Domain",
+    "StrengthenBrandnn": "Strengthen your brand with your own domain.",
+    "LimitedContributorsnn": "Limited contributing users",
+    "ManageTeamQRnn": "Manage your QRs as a team.",
+    "Templatesnn": "Templates",
+    "SaveReuseDesignsnn": "Save and reuse your own designs.",
+    "CompleteAnalyticsnn": "Complete analytics",
+    "UnderstandPerformancenn": "Understand performance with detailed data.",
+    "EventTrackingnn": "Event tracking",
+    "TrackInteractionsnn": "Track interactions.",
+    "EditingManagementQRnn": "Editing and management of QRs",
+    "CustomizeOrganizeQRnn": "Customize and organize your QRs.",
+    "PasswordAccessProtectionnn": "Password access protection",
+    "SecureCodesnn": "Secure your codes.",
+    "Registernn":"Register",
+    "Log_Innn":" Log In",
+    "Dashboardnn":"Dashboard",
+    "FAQsnn":"FAQs",
+    "dontnn":"If you have any questions that you can't answer through our FAQs, don't ",
+    "hesitatenn":"hesitate to contact our team.",
+
+
+    "WhatIsQRnn": "What is a QR code?",
+    "WhatIsQRDescriptionnn": "Simply put, we can say that the QR code is the natural evolution of the barcode. Its name derives from 'Quick Response Code', due to the speed at which they can be scanned. This code allows for easy access to different information through a mobile device.",
+    
+    "WhatAreQRCodesUsefulFornn": "What are QR codes useful for?",
+    "WhatAreQRCodesUsefulForDescriptionnn": "They are as useful as all the different types of content they can offer. In fact, in recent years, this type of code is becoming more widely accepted among all kinds of people. It's logical, since with just one scan you can access a variety of different information and even facilitate certain tasks such as connecting to a Wi-Fi network. A QR code can help you improve the service or product you offer, interact with your customers and promote your business, among other things.",
+    
+    "HowManyTypesOfQRnn": "How many types of QR codes are there?",
+    "HowManyTypesOfQRDescriptionnn": "Many. There are as many types of the different kinds of content that may be associated with them. At QRfy, we offer you a tool to create a wide variety of them: Wi-Fi, website, vCard, PDF, images, videos, apps and menus. And all in the simplest way.",
+    
+    "HowDoYouReadQRnn": "How do you read a QR code?",
+    "HowDoYouReadQRDescriptionnn": "There are several factors that influence whether a person or potential customer can read a QR code, but without a doubt the most important factor is that the individual who wants to scan the code needs to have a mobile phone. Nowadays, there are many mobile devices that can read QR codes with the camera itself, by simply pointing the camera at the code to scan it. If this doesn't work, you may need to download an application designed to read QR codes.",
+    
+    "StaticVsDynamicQRnn": "What is the difference between a static QR and a dynamic one?",
+    "StaticVsDynamicQRDescriptionnn": "The biggest difference between the two is that the dynamic QR code can be edited even after being printed, and the static one cannot. Therefore, the dynamic QR code allows us to change both the function and the content at any time and as many times as we want. Another big difference is that dynamic QR code allows you to collect statistics on the scans made in order to get as much information as possible.",
+    
+    "StaticToDynamicQRnn": "Can a static QR code be converted to a dynamic one or vice versa?",
+    "StaticToDynamicQRDescriptionnn": "No, due to the technical differences between each of the codes.",
+    
+    "GenerateQRnn": "How can I generate my own QR code?",
+    "GenerateQRDescriptionnn": "There are different platforms and tools to create your own QR, but none like QRfy. With QRfy you not only can create custom QR codes, you can also manage and edit your code, and monitor analytics.",
+    
+    "CanQRFailnn": "Can the reading of a QR code fail?",
+    "CanQRFailDescriptionnn": "QR codes also have an error prevention system. Thanks to this system, up to 30% of the structure of the QR code can be damaged without affecting its ability to be read. If the damage is greater, it may be impossible to read.",
+    
+    "DesignYourOwnQRnn": "How can I design my own QR code?",
+    "DesignYourOwnQRDescriptionnn": "With our QR code creator, anyone can create their own.",
+    
+    "CustomizeQRTextnn": "Can I customise the text of the QR?",
+    "CustomizeQRTextDescriptionnn": "Yes. As long as the maximum number of characters is respected.",
+
+
+
+
+
+
+
+     "ChangeQRSizeTitleTextnn": "Can I change the size of my QR logo?",
+  "ChangeQRSizeDescriptionTextnn": "No. To avoid errors in the process of reading the QR code, this option is not available. But don't worry, we use a standard size so that the logo is easily readable and doesn't compromise the scan.",
+  
+  "EditQRCodeTitleTextnn": "Can I edit my QR code?",
+  "EditQRCodeDescriptionTextnn": "Yes. Within the 'My QRs' section, you can see all the QR codes that you have created. Just click on the edit button (pencil symbol) to be able to make changes to your QR.",
+  
+  "CheckQRCodeTitleTextnn": "Can I check that my QR code is working correctly?",
+  "CheckQRCodeDescriptionTextnn": "Yes. We recommend that you always scan the QR code preview with your mobile device to check that it's working.",
+  
+  "WhyQRCodeNotWorkingTitleTextnn": "Why aren't my QR codes working?",
+  "WhyQRCodeNotWorkingDescriptionTextnn": "If you are in the trial period or signed to any of our plans, your active QR codes should work without problem. If your QR codes do not work, it is most likely due to design elements. Some reading applications and phone cameras have difficulties in scanning complex QR codes. Here are some design elements to keep in mind: - Ensure there's enough contrast between the QR code's foreground and background. - Ensure the QR code size is appropriate for the scanning distance (dynamic QR codes shouldn't be less than 2x2 cm, and static ones not less than 3x3 cm). - Ensure any logo used doesn't block critical QR elements.",
+
+  "DataCollectedDynamicQRTitleTextnn": "What data is collected in dynamic QR scans?",
+  "DataCollectedDynamicQRDescriptionTextnn": "You will be able to know the total number of scans, the number of scans per operating system, the location, and the number of unique scans.",
+  
+  "DownloadQRCodeTitleTextnn": "How do I download my QR code?",
+  "DownloadQRCodeDescriptionTextnn": "You can download your QR codes from the 'My QRs' section or within the 'Detail' section of each QR. You can download it in formats like PNG, JPEG, EPS, or SVG.",
+
+  "PrintQRCodeTitleTextnn": "How do I print my QR code?",
+  "PrintQRCodeDescriptionTextnn": "Once you've downloaded your QR code in the desired format, you can print it from your computer. Be sure to test your QR before printing to avoid any issues.",
+
+  "PlansDifferenceTitleTextnn": "How many plans are there and how are they different?",
+  "PlansDifferenceDescriptionTextnn": "At QRfy, we offer 3 plans that give you access to all the tools on our platform. The difference is in their duration. We also offer a free 7-day trial to explore the platform.",
+
+  "ExtraChargeTitleTextnn": "Is there an extra charge in addition to the price of the plan?",
+  "ExtraChargeDescriptionTextnn": "No, there are no extra charges beyond the price of the plan plus VAT. However, your credit card provider may charge a small fee for the transaction. Please check with your bank or credit card provider directly for details.",
+
+  "PaymentMethodsAcceptedTitleTextnn": "What payment methods does QRfy accept?",
+  "PaymentMethodsAcceptedDescriptionTextnn": "QRfy accepts Visa, Mastercard, American Express, and Maestro cards.",
+
+  "ChangePaymentMethodTitleTextnn": "Can I change or update my payment method?",
+  "ChangePaymentMethodDescriptionTextnn": "Yes. Go to the 'My Plans' section and click on 'Update Card'.",
+
+  "ChangeVATNumberTitleTextnn": "Where can I update or change my VAT number?",
+  "ChangeVATNumberDescriptionTextnn": "You can update your VAT number by going to the 'Tax Information' section in 'My Account'.",
+
+  "DownloadInvoicesTitleTextnn": "Where can I download my invoices?",
+  "DownloadInvoicesDescriptionTextnn": "You can download your invoices by clicking the invoice icon in the 'Plans and Payments' section. You will need to provide your tax information. If you encounter any issues, please contact our support team.",
+
+
+
+
+
+
+
+
+
+"SubscriptionUsageTitle": "When can I start using the purchased plan?",
+  "SubscriptionUsageDescription": "As soon as the payment is made, you can start using all of the QRfy tools.",
+
+  "SubscriptionDurationTitle": "How long does my subscription last?",
+  "SubscriptionDurationDescription": "It will depend on the plan you have subscribed to. We have the following plans: quarterly, semi-annual, annual.",
+
+  "AutomaticRenewalTitle": "Is my subscription renewal automatic?",
+  "AutomaticRenewalDescription": "Yes. Unless the subscription is canceled - at the latest - one day before the renewal date, your subscription will renew automatically. The renewal of your subscription cannot be cancelled once it has been carried out.",
+
+  "CancelSubscriptionTitle": "How do I cancel my subscription?",
+  "CancelSubscriptionDescription": "Canceling your subscription is very easy. You can do it in the 'Billing' section or by clicking here.",
+
+  "QRCodeAfterCancellationTitle": "What happens to my QR codes if my subscription is cancelled?",
+  "QRCodeAfterCancellationDescription": "Your QR codes won't go anywhere, but you won't be able to access them or the collected data until you update your plan. Your QR codes will disappear only if you delete your QRfy account.",
+
+  "RefundPolicyTitle": "Do you offer refunds for unused subscription periods?",
+  "RefundPolicyDescription": "No refunds are offered for unused subscription periods. Users can prevent the subscription from automatically renewing by canceling it at any time.",
+
+  "TrialPeriodTitle": "How long is the trial period?",
+  "TrialPeriodDescription": "7 days, in which you can try our QR code generator.",
+
+  "TrialAccessTitle": "What type of access does the trial period give me?",
+  "TrialAccessDescription": "Our trial period gives you access to all of our tools. At QRfy, we believe that in order to evaluate a service, you must be able to test it out completely.",
+
+  "TrialExtensionTitle": "Can the trial period extend?",
+  "TrialExtensionDescription": "We feel it, but the trial period only lasts 7 days. After that period, you can continue using the platform by subscribing to one of our plans.",
+
+  "CommercialUseTitle": "Can I use the QR codes generated in the trial period for commercial purposes?",
+  "CommercialUseDescription": "Yes.",
+
+  "CancelTrialTitle": "Should I cancel the trial period if I am not going to continue using the platform?",
+  "CancelTrialDescription": "No. The free trial period automatically ends after 7 days. Only payment plans can be cancelled.",
+
+  "QRCodeAfterTrialTitle": "What about my QR codes once the trial period ends?",
+  "QRCodeAfterTrialDescription": "Your QR codes will be stored for three months after the trial period has ended. During this period you will not be able to access them until you contract one of our plans.",
+
+  "bulknn":"Bulk creation and download",
+  "accessiblenn":"Managing and generating large quantities of QR codes can be an arduous task, but our bulk creation and download tools make this process fast and efficient. Imagine a company hosting an event that needs to create dynamic vCard QRs for all of its employees, or a retailer that needs to generate static QR codes with product information to organize inventory. These tools allow you to save time and effort, making it easier to manage your projects. Furthermore, you don't need to worry about having advanced technical knowledge; With QRFY, mass QR code creation is intuitive and accessible.",
+  "Benefitsnn":"Benefits of mass creation",
+
+  "organizationalnn":"Mass creation of QR codes not only simplifies the management of large volumes of information, but also offers a number of crucial advantages for various business and organizational applications:",
+  "Operationalnn":"Operational efficiency:",
+  "necessarynn":" with a With just one click, you can generate all the necessary codes, saving you hours of manual work. This efficiency is crucial for large-scale projects.",
+  "Speednn":"Speed: ",
+  "volumesnn":" Bulk creation allows large volumes of data to be processed quickly, which is essential in tight deadline situations.",
+
+  "Uniformitynn":"Uniformity and consistency:",
+
+  "professionalnn":"ensures that all codes maintain a consistent layout and format, which is vital to maintaining a professional and consistent image.",
+
+  "customizationnn":"Large-scale customization:",
+
+  "participatingnn":"you can create custom QR codes for each member of a team or product in an inventory. For example, if your company is participating in a conference, you can generate vCards for all team members by simply uploading a CSV file with their data.",
+
+  "Benefitsnnn":"Benefits of Bulk Download",
+
+  "distributionnn":"The mass download of QR codes offers multiple advantages that simplify the management and distribution of digital information in an efficient and organized manner:",
+
+
+  "Simplifiednn":"Simplified organization:",
+
+  "materialsnn":"facilitates the organization and distribution of QR codes on materials printed or digital. Having all the codes ready to download in a single file optimizes logistics.",
+
+  "accessibilitynn":"Convenience and accessibility:",
+
+  "anytimennn":"allows you to have all QR codes available in a downloadable file, ready to be used anytime, anywhere.",
+
+  "Flexibilitynn:":"Flexibility and adaptability:",
+
+  "unforeseennn":"facilitates rapid response to changes or unforeseen needs, as all QR codes can be easily accessed. This is especially useful for dynamic marketing campaigns or events with multiple activities.",
+
+  "Distributionnnn":"Distribution efficiency: ",
+
+  "quicklynnn":"simplifies the process of integrating QR codes into various platforms and materials, improving operational efficiency. For example, once you have all the QR codes downloaded, you can quickly integrate them into presentations, brochures, or promotional materials.",
+
+
+  "ensuringnnn":"These tools allow for more efficient and organized management of QR codes, ensuring you can focus on what really matters: delivering great content and service to your customers."
+
+
+
+  
+   
+
+
+
+
+
+  }
+  

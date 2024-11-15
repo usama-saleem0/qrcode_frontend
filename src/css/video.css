@@ -1,0 +1,17 @@
+.imagediv.scroll-box-main {
+    width: 100%;
+    overflow: auto;
+}
+
+.scroll-box {
+    width: max-content;
+    display: flex;
+    gap: 10px;
+}
+
+.scroll-box .imdiv.color-box {
+    width: 130px;
+    background: aqua;
+    border-radius: 5px;
+    border: 1px solid #dfdfdf;
+}
